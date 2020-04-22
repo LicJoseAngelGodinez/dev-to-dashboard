@@ -4,7 +4,7 @@ This is a project based on a tutorial from [How to create a simple dashboard usi
 
 I followed this tutorial to get some practice on vscode and the usage of Emmet abbreviations.
 
-Heres a result snapshot
+Here is a result snapshot
 ___
 
 ![result](dashboard.png)
