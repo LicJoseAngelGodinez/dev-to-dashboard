@@ -4,6 +4,8 @@ This is a project based on a tutorial from [How to create a simple dashboard usi
 
 I followed this tutorial to get some practice on vscode and the usage of Emmet abbreviations.
 
+You can check live [HERE](https://licjoseangelgodinez.github.io/).
+
 Here is a result snapshot
 ___
 
